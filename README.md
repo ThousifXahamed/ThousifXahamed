@@ -34,6 +34,44 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
 
+<!-- Project Section -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<!-- Project 1 -->
+<p align="center">
+  <a href="https://soul-ott.vercel.app" target="_blank"><img src="https://via.placeholder.com/150" alt="Soul OTT"/></a>
+  <br/>
+  <a href="https://github.com/ThousifXahamed/Soul-ott.git" target="_blank">Soul OTT GitHub Repository</a>
+</p>
+
+<!-- Project 2 -->
+<p align="center">
+  <a href="https://vbot-assistance.vercel.app" target="_blank"><img src="https://via.placeholder.com/150" alt="Vbot Assistance"/></a>
+  <br/>
+  <a href="https://github.com/ThousifXahamed/Vbot-assistance.git" target="_blank">Vbot Assistance GitHub Repository</a>
+</p>
+
+<!-- Project 3 -->
+<p align="center">
+  <a href="https://foodzie-five.vercel.app" target="_blank"><img src="https://via.placeholder.com/150" alt="Foodzie"/></a>
+  <br/>
+  <a href="https://github.com/ThousifXahamed/Foodzie.git" target="_blank">Foodzie GitHub Repository</a>
+</p>
+
+<!-- Project 4 -->
+<p align="center">
+  <a href="https://real-estate-website-enp.pages.dev" target="_blank"><img src="https://via.placeholder.com/150" alt="RealEstateHub"/></a>
+  <br/>
+  <a href="https://github.com/ThousifXahamed/RealEstateHub.git" target="_blank">RealEstateHub GitHub Repository</a>
+</p>
+
+<!-- Project 5 -->
+<p align="center">
+  <a href="https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/home.png" target="_blank"><img src="https://via.placeholder.com/150" alt="Student Database Management System"/></a>
+  <br/>
+  <a href="https://github.com/muuggle07/Student-Database-Management" target="_blank">Student Database Management System GitHub Repository</a>
+</p>
+
 <!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
