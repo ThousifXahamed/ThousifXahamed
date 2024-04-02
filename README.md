@@ -4,7 +4,7 @@
 
 
 <div align ="left">
-<h1>👨‍💻About me</h1>---> 
+<h1>👨‍💻About me</h1>
 <h2>👋Thousif Ahamed, pursuing Computer Science & Engineering at BIET, Davanagere. </h2>
 🚀 Proficient in web development <br>
 💻 Passionate about collaboration, problem-solving, and continuous growth. <br>
