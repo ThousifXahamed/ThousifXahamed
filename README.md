@@ -1,4 +1,4 @@
-<div align= "center" style="background-image: url('https://images.pexels.com/photos/707582/pexels-photo-707582.jpeg?auto=compress&cs=tinysrgb&w=800'); background-size: cover; background-position: center;">
+<div align= "center" >
 <img src="https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592" width="250px" height="300px">
 <!-- ![XOsX width="100px" height="100px"](https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592) -->
 
