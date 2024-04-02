@@ -1,6 +1,6 @@
 <div align= "center" >
 <img src="https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592" width="250px" height="300px">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  
 <!-- ![XOsX width="100px" height="100px"](https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592) -->
 
 
@@ -78,14 +78,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThousifXahamed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThousifXahamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 <p align="left"> <img src="https://kom
 
 
